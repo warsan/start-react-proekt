@@ -1,2 +1,2 @@
 # start-react-proekt
-Created with CodeSandbox
+Создано с CodeSandbox
