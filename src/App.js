@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Привет, CodeSandbox</h1>
-      <h2>Начните редактировать, чтобы увидеть волшебство!</h2>
+      <h2>Начните редактировать, чтобы увидеть это волшебство!</h2>
     </div>
   );
 }
